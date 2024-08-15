@@ -1,0 +1,19 @@
+{
+  "name": "solidity-example",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "author": "Franco Sosa",
+  "description": "A basic example of a Solidity project using Truffle",
+  "license": "MIT",
+  "main": "truffle-config.js",
+  "packages": {},
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3",
+    "truffle": "^5.5.0"
+  },
+  "scripts": {
+    "test": "truffle test"
+  }
+}
